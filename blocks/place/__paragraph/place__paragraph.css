@@ -4,10 +4,10 @@
     font-weight: 400;
     font-style: normal;
     margin: 0 0 26px;
-    min-width: 30vh;
+    min-width: 23vh;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 825px) {
     .place__paragraph {
         font-size: 16px;
     }

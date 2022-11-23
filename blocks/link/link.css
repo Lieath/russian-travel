@@ -1,5 +1,6 @@
 .link {
     color: #FFFFFF;
+    text-decoration-line: none;
 }
 
 .link:hover {

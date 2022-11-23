@@ -26,6 +26,12 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+    .place {
+        margin-bottom: 73px;
+    }
+}
+
 @media screen and (max-width: 590px) {
     .place {
         grid-template-columns: minmax(min-content, 340px) minmax(250px, 1fr);
@@ -36,6 +42,12 @@
     .place {
         grid-template-columns: minmax(min-content, max-content);
         gap: 32px;
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place {
         margin-bottom: 50px;
     }
 }
