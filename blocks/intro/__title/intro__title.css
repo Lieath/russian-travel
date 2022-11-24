@@ -6,28 +6,28 @@
     margin: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 735px) {
     .intro__title {
         font-size: 7.3vw;
         line-height: 109%;
     }
 }
 
-@media screen and (max-width: 675px) {
+@media screen and (max-width: 690px) {
     .intro__title {
         font-size: 7vw;
         line-height: 109%;
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 495px) {
     .intro__title {
         font-size: 8.5vw;
         line-height: 109%;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 390px) {
     .intro__title {
         font-size: 32px;
         line-height: 109%;
